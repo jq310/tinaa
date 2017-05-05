@@ -1,4 +1,4 @@
 //main.java
 { 
-system.output.ln abcdefghijklmnopqrstuvwxyz;
+system.output.ln ;
 }
